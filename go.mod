@@ -1,4 +1,4 @@
-module github.com/crewjam/httperr
+module github.com/themasterr/httperr
 
 go 1.13
 
