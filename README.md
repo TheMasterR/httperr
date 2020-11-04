@@ -1,6 +1,6 @@
 # httperr
 
-[![GoDoc](https://godoc.org/github.com/crewjam/httperr?status.svg)](https://godoc.org/github.com/crewjam/httperr)
+[![GoDoc](https://godoc.org/github.com/themasterr/httperr?status.svg)](https://godoc.org/github.com/themasterr/httperr)
 
 [![Build Status](https://travis-ci.org/crewjam/httperr.svg?branch=master)](https://travis-ci.org/crewjam/httperr)
 
